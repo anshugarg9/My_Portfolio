@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:folio/responsive/responsive.dart';
-import 'package:folio/sections/contact/contact_desktop.dart';
-import 'package:folio/sections/contact/contact_mobile.dart';
+import 'package:my_portfolio/responsive/responsive.dart';
+import 'package:my_portfolio/sections/contact/contact_desktop.dart';
+import 'package:my_portfolio/sections/contact/contact_mobile.dart';
 
 class Contact extends StatelessWidget {
   const Contact({Key? key}) : super(key: key);

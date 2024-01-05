@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:folio/configs/app_typography.dart';
+import 'package:my_portfolio/configs/app_typography.dart';
 
 class CustomSectionHeading extends StatelessWidget {
   final String text;

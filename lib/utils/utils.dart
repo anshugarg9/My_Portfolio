@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:folio/sections/about/about.dart';
-import 'package:folio/sections/contact/contact.dart';
-import 'package:folio/sections/home/home.dart';
-import 'package:folio/sections/portfolio/portfolio.dart';
-import 'package:folio/sections/services/services.dart';
-import 'package:folio/widget/footer.dart';
+import 'package:my_portfolio/sections/about/about.dart';
+import 'package:my_portfolio/sections/contact/contact.dart';
+import 'package:my_portfolio/sections/home/home.dart';
+import 'package:my_portfolio/sections/portfolio/portfolio.dart';
+import 'package:my_portfolio/sections/services/services.dart';
+import 'package:my_portfolio/widgets/footer.dart';
 
 class StaticUtils {
   static const String hi = 'assets/hi.gif';
